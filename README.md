@@ -1,3 +1,3 @@
 # STFXPE
-schools PE webapp
+schools athletic webapp
 In progress ...
